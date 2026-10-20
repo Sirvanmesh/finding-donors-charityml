@@ -1,0 +1,16 @@
+# Virtual environments
+.venv/
+venv/
+
+# Python / Jupyter caches
+__pycache__/
+.ipynb_checkpoints/
+
+# Secrets
+.env
+*.env
+
+# Dataset (download it separately, see README)
+census.csv
+
+# Note: GitHub rejects files over 100 MB. Keep large files (data, models) out of this repo.
